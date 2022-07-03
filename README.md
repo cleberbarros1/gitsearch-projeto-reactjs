@@ -15,11 +15,23 @@ Próximos passos é solidificar ainda mais os conhecimentos da Biblioteca, princ
 
 
 
+![img3](img3.PNG)
+
+![img2](img2.PNG)
+
+![img4](img4.PNG)
+
+![img5](img5.PNG)
+
+![img6](img6.PNG)
+
+
+
 Projeto disponível na plataforma não contempla a pasta "node_modules", porém a mesma pode ser obtida com o npm.
 
 Extensões utilizadas para a confecção do projeto foram:
 
-* Styled-components
+* Syled-components
 * Axios
 
 
